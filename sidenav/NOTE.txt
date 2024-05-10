@@ -1,2 +1,0 @@
-- Run testing.php via xampp
-- Add a margin-left of 210px to view content
